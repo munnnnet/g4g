@@ -3,7 +3,7 @@ module.exports = {
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-    siteTitleMeta: `Marketing Metric Nerd`, // This allows an alternative site title for meta data for pages.
+    siteTitleMeta: `metricXL.com`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: `A site of marketing metric and analytics collection. Help marketer to make a plan for the next stage of each business challenges.`, // This allows an alternative site description for meta data for pages.
 
     shareImageWidth: 1000, // Change to the width of your default share image
