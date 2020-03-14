@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: `https://styxlab.github.io`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://metricxl.com`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
